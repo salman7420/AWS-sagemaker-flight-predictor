@@ -1,1 +1,1 @@
-# Flight Prices Prediction end to end ML Project UsinGg AWS Sagemaker
+# Flight Prices Prediction end to end ML Project Using AWS Sagemaker
