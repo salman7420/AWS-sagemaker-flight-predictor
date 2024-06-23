@@ -7,3 +7,4 @@ statsmodels
 scikit-learn
 wordcloud
 ipython
+feature-engine
