@@ -31,6 +31,6 @@ The goal of this project is to predict flight prices based on various features s
 
 ## 📫 Contact
 
-Your Name - [@your_linkedin_url](https://linkedin.com/in/your_linkedin_url) - your_email@example.com
+Your Name - https://www.linkedin.com/in/salman-rasheed-ai/ - salmanrasheedsrk86@gmail.com
 
-Project Link: [https://github.com/your-username/your-repo](https://github.com/your-username/your-repo)
+Project Link: https://github.com/salman7420/AWS-sagemaker-flight-predictor/tree/master
